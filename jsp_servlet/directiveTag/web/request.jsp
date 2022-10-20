@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: gennect_3
-  Date: 10/19/22
-  Time: 7:24 AM
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
@@ -40,8 +33,4 @@
   <jsp:include page="footer.jsp"/>
 </footer>
 </body>
-<<<<<<< HEAD:jsp_servlet/jsp_overview/web/request.jsp
 </html>
-=======
-</html>
->>>>>>> origin/master:jsp_servlet/overview/web/request.jsp
