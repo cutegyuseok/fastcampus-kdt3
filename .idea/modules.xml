@@ -7,8 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/jsp_servlet/forwardRedirect/forwardRedirect.iml" filepath="$PROJECT_DIR$/jsp_servlet/forwardRedirect/forwardRedirect.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_servlet/implicitObject/implicitObject.iml" filepath="$PROJECT_DIR$/jsp_servlet/implicitObject/implicitObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/javaBeans/javaBeans.iml" filepath="$PROJECT_DIR$/jsp_servlet/javaBeans/javaBeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_servlet/jsp_overview/jsp_overview.iml" filepath="$PROJECT_DIR$/jsp_servlet/jsp_overview/jsp_overview.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_servlet/jsp_servlet.iml" filepath="$PROJECT_DIR$/jsp_servlet/jsp_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/overview/overview.iml" filepath="$PROJECT_DIR$/jsp_servlet/overview/overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/servlet/servlet.iml" filepath="$PROJECT_DIR$/jsp_servlet/servlet/servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_servlet/test/test.iml" filepath="$PROJECT_DIR$/jsp_servlet/test/test.iml" />
     </modules>
   </component>
