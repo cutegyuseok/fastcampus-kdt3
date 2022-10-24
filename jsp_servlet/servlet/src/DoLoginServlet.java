@@ -42,6 +42,9 @@ public class DoLoginServlet extends HttpServlet {
                 session.setMaxInactiveInterval(1800);
 
                 session.setAttribute("login", Status.SUCCESS);
+                // request.setAttribute 로 하면 redirection시 기존 request가 사라지기 떄문에
+                // redirection과 foward는 차이가 있음!
+                //forward는 request유지하고 전달, redirection은 request 제거후 url 이동
                 response.sendRedirect("./survey.jsp");
             } else {
                 session.setAttribute("login", Status.FAIL);
