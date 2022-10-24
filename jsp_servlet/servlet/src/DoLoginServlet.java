@@ -40,6 +40,7 @@ public class DoLoginServlet extends HttpServlet {
             if (member.getuPw().equals(uPw)) {
                 session.setAttribute("uId", uId);
                 session.setMaxInactiveInterval(1800);
+
                 session.setAttribute("login", Status.SUCCESS);
                 response.sendRedirect("./survey.jsp");
             } else {
@@ -48,7 +49,7 @@ public class DoLoginServlet extends HttpServlet {
             }
         } else {
             session.setAttribute("login", Status.NULL);
-            response.sendRedirect("./signup.jsp");
+            response.sendRedirect("./login.jsp");
         }
 
     }

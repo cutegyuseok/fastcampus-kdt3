@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Search</title>
+    <title>JSP</title>
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
     <div class="search">
         <form action="./DoSearchServlet" method="get">
             <label for="search-box">Search ⌨️</label>
-            <input type="text" id="search-box" name="search" placeholder="search...">
+            <input type="text" id="search-box" name="search" placeholder="search..." required>
         </form>
     </div>
 </main>
