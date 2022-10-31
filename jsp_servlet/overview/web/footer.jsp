@@ -12,8 +12,4 @@
     <div><p>FOOTER</p></div>
     <div></div>
 </footer>
-<<<<<<< HEAD:jsp_servlet/jsp_overview/web/footer.jsp
 </html>
-=======
-</html>
->>>>>>> origin/master:jsp_servlet/overview/web/footer.jsp

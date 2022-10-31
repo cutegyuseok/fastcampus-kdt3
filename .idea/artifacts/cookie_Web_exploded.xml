@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="cookie" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.68/lib/jasper.jar" />
+        </element>
       </element>
     </root>
   </artifact>

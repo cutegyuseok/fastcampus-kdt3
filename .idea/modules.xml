@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/EL/EL.iml" filepath="$PROJECT_DIR$/jsp_servlet/EL/EL.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/JSTL/JSTL.iml" filepath="$PROJECT_DIR$/jsp_servlet/JSTL/JSTL.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/cookie/cookie.iml" filepath="$PROJECT_DIR$/jsp_servlet/cookie/cookie.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/cookieAutoLogin/cookieAutoLogin.iml" filepath="$PROJECT_DIR$/jsp_servlet/cookieAutoLogin/cookieAutoLogin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/directiveTag/directiveTag.iml" filepath="$PROJECT_DIR$/jsp_servlet/directiveTag/directiveTag.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/fastcampus-kdt3.iml" filepath="$PROJECT_DIR$/.idea/fastcampus-kdt3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/forwardRedirect/forwardRedirect.iml" filepath="$PROJECT_DIR$/jsp_servlet/forwardRedirect/forwardRedirect.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/implicitObject/implicitObject.iml" filepath="$PROJECT_DIR$/jsp_servlet/implicitObject/implicitObject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/javaBeans/javaBeans.iml" filepath="$PROJECT_DIR$/jsp_servlet/javaBeans/javaBeans.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/jsp_overview/jsp_overview.iml" filepath="$PROJECT_DIR$/jsp_servlet/jsp_overview/jsp_overview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/jsp_servlet.iml" filepath="$PROJECT_DIR$/jsp_servlet/jsp_servlet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/overview/overview.iml" filepath="$PROJECT_DIR$/jsp_servlet/overview/overview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/servlet/servlet.iml" filepath="$PROJECT_DIR$/jsp_servlet/servlet/servlet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsp_servlet/test/test.iml" filepath="$PROJECT_DIR$/jsp_servlet/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fastcampus-kdt3ByTeacher.iml" filepath="$PROJECT_DIR$/.idea/fastcampus-kdt3ByTeacher.iml" />
     </modules>
   </component>
 </project>

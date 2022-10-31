@@ -40,8 +40,4 @@
   <jsp:include page="footer.jsp"/>
 </footer>
 </body>
-<<<<<<< HEAD:jsp_servlet/jsp_overview/web/request.jsp
 </html>
-=======
-</html>
->>>>>>> origin/master:jsp_servlet/overview/web/request.jsp

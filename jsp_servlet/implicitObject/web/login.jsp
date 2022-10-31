@@ -10,12 +10,6 @@
   <jsp:include page="header.jsp"/>
 </header>
 
-<%
-  if (session.getAttribute("uId") != null){
-    response.sendRedirect("./session.jsp?uId=" + session.getAttribute("uId"));
-  }
-%>
-
 <main>
   <h1>LOGIN</h1>
   <div>
